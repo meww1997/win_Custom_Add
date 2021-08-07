@@ -12,5 +12,5 @@ $("body").prepend('<div id="loadCaptchaHere"></div><div id="displayThongBao"></d
 /* 
 Note: Only K25 DTU (Các khóa khác muốn custom code vui lòng liên hệ với mình
 Facebook cá nhân: facebook.com/windev.winstudio
-Xem hướng dẫn chi tiết tại Youtube: 
+Xem hướng dẫn chi tiết tại Youtube: https://www.youtube.com/watch?v=uMh0HXiEBaU
 */
