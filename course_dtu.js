@@ -8,7 +8,8 @@ var classCode=prompt("Nhập tên lớp bạn muốn check",0),courseid=$(locati
 2. Tìm môn bạn cần check -> bấm vào môn đó
 3. F12 or Chuột phải -> inspect
 4. Qua tab console dán đoạn code và nhập tên lớp (VD: POS 351 C)
-4. Đợi chờ khi có slot sẽ tự thông báo 
+(Nên coppy sẵn mã môn đó và dán bên đăng ký sẵn, khi hiện thông báo chỉ cần đăng ký bên trang đăng ký)
+5. Đợi chờ khi có slot sẽ tự thông báo 
 
 Note: vì request nhiều nên mỗi môn khi check xong nên tắt tab trình duyệt đó và mở tab mới.
 */
