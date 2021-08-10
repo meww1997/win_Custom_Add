@@ -12,4 +12,5 @@ var classCode=prompt("Nhập tên lớp bạn muốn check",0),courseid=$(locati
 5. Đợi chờ khi có slot sẽ tự thông báo 
 
 Note: vì request nhiều nên mỗi môn khi check xong nên tắt tab trình duyệt đó và mở tab mới.
+Recommend: 5-7p nên tắt tab trình duyệt và làm lại
 */
