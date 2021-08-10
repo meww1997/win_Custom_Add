@@ -21,6 +21,3 @@ MBBank: 9704229271679248
  <br/>
  K25: K26_version2.js
   </p>
-  <p align="left">
-Check slot of class: course_dtu.js
-  </p>
